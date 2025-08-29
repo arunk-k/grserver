@@ -51,6 +51,7 @@ cd backend
 npm install
 node index.js / nodemon
 ```
+## Sample .env config
 ```.env
 PORT=3214
 DBCONNECT=mongodb+srv://arun:arun@cluster0.kwmldct.mongodb.net/bookReviewBoardDb?retryWrites=true&w=majority&appName=Cluster0
