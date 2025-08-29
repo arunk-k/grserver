@@ -49,7 +49,7 @@ backend/
 git clone https://github.com/arunk-k/backend.git
 cd backend
 npm install
-node index.js / nodemon
+node index.js
 ```
 ## Sample .env config
 ```.env
