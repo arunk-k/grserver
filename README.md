@@ -87,7 +87,7 @@ Proper error handling
 ## Screenshots
 
 ### Backend Running Locally
-![Backend Running](./screenshots/backend-running.png)
+![Backend Running](./screenshots/backendRunning.png)
 
 
 
